@@ -22,14 +22,14 @@
                 <small class="text-white-50">Admin Panel</small>
             </div>
             <nav class="nav flex-column">
-                <a class="nav-link" href="/admin/dashboard">📊 Dashboard</a>
-                <a class="nav-link active" href="/admin/users">👥 Users</a>
-                <a class="nav-link" href="/admin/doctors">👨‍⚕️ Doctors</a>
-                <a class="nav-link" href="/admin/appointments">📋 Appointments</a>
-                <a class="nav-link" href="/admin/payments">💰 Payments</a>
-                <a class="nav-link" href="/admin/reviews">⭐ Reviews</a>
-                <a class="nav-link" href="/">🏠 Home</a>
-                <a class="nav-link" href="/logout">🚪 Logout</a>
+                <a class="nav-link" href="/admin/dashboard">Dashboard</a>
+                <a class="nav-link active" href="/admin/users">Users</a>
+                <a class="nav-link" href="/admin/doctors">Doctors</a>
+                <a class="nav-link" href="/admin/appointments">Appointments</a>
+                <a class="nav-link" href="/admin/payments">Payments</a>
+                <a class="nav-link" href="/admin/reviews">Reviews</a>
+                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="/logout">Logout</a>
             </nav>
         </div>
 
